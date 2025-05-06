@@ -10,11 +10,11 @@
 ---
 
 - 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Systems**
-- 🌱 I’m currently learning: **ABAP Programming for SAP Development| Django Framework for Python| MongoDB for No SQLDatabas**
+- 🌱 I’m currently learning: **ABAP Programming for SAP Development| Django Framework for Python| MongoDB for NoSQL Database**
 - 👯 I’m looking to collaborate on: **Open-source projects**
-- 🤝 I’m looking for help with: **[Optional — specify if applicable]**
-- 💬 Ask me about: **Web development, Java, Angular, and more**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
+- 🤝 I’m looking for help with: **Analysis & Development**
+- 💬 Ask me about: **Web development, Java, Angular, Relational Database and more**
+- 📫 How to reach me: **thompsonlankee@gmail.com**
 - ⚡ Fun fact: **I love coffee and building cool web apps! ☕**
 
 ---
@@ -32,13 +32,33 @@
 <p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
 
 💻 Development Tools & IDEs
-<p> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" /> </p>
+<p> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+</p>
+
+🖥️ Desktop Application Development
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Forms-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 
 🔄 Version Control & Collaboration
 <p> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> </p>
 
 🧰 Other Tools
-<p> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Roblox%20Studio-BB0000?style=for-the-badge&logo=roblox&logoColor=white" /> <img src="https://img.shields.io/badge/IDLE%20(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+<p> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Roblox%20Studio-BB0000?style=for-the-badge&logo=roblox&logoColor=white" /> 
+</p>
 
 ### 📊 GitHub Stats
 
