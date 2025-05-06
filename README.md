@@ -55,10 +55,18 @@
 🔄 Version Control & Collaboration
 <p> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> </p>
 
+🚀 Deployment Tools
+
+<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
+
+🎮 Game Engine
+
+<p> <img src="https://img.shields.io/badge/Roblox%20Studio-BB0000?style=for-the-badge&logo=roblox&logoColor=white" /> </p>
+
+
 🧰 Other Tools
-<p> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Roblox%20Studio-BB0000?style=for-the-badge&logo=roblox&logoColor=white" /> 
-</p>
+
+<p> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> </p>
 
 ### 📊 GitHub Stats
 
