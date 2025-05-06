@@ -1,7 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Aung Phyo Paing</h1>
-<h1 align="center">(Thompson LanKee)</h1>
+<h1 align="center">Hi there 👋, I'm Aung Phyo Paing (Thompson LanKee) </h1>
 <h3 align="center">A passionate burmese software developer</h3>
 
 <p align="center">
@@ -10,8 +9,8 @@
 
 ---
 
-- 🔭 I’m currently working on: **[Your current project]**
-- 🌱 I’m currently learning: **[e.g., Spring Boot, Angular, Docker, etc.]**
+- 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Systems**
+- 🌱 I’m currently learning: **ABAP Programming | Django Framework**
 - 👯 I’m looking to collaborate on: **Open-source projects**
 - 🤝 I’m looking for help with: **[Optional — specify if applicable]**
 - 💬 Ask me about: **Web development, Java, Angular, and more**
@@ -22,15 +21,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </p>
 
 ---
 
