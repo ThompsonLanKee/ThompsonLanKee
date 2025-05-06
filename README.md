@@ -1,6 +1,7 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Aung Phyo Paing</h1>
+<h1 align="center">(Thompson LanKee)</h1>
 <h3 align="center">A passionate burmese software developer</h3>
 
 <p align="center">
