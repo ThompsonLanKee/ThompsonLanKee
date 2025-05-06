@@ -10,7 +10,7 @@
 ---
 
 - 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Systems**
-- 🌱 I’m currently learning: **ABAP Programming | Django Framework**
+- 🌱 I’m currently learning: **ABAP Programming for SAP Development| Django Framework for Python| MongoDB for No SQLDatabas**
 - 👯 I’m looking to collaborate on: **Open-source projects**
 - 🤝 I’m looking for help with: **[Optional — specify if applicable]**
 - 💬 Ask me about: **Web development, Java, Angular, and more**
@@ -19,27 +19,43 @@
 
 ---
 
-### 🛠️ Languages and Tools
+🧠 Programming Languages
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" /> </p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </p>
+🎨 Frontend Development
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MD%20Bootstrap-31B2C4?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> </p>
 
----
+🔧 Backend Development
+<p> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Servlets-EE4C2C?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" /> </p>
+
+🗄️ Database Management
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
+
+💻 Development Tools & IDEs
+<p> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" /> </p>
+
+🔄 Version Control & Collaboration
+<p> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> </p>
+
+🧰 Other Tools
+<p> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Roblox%20Studio-BB0000?style=for-the-badge&logo=roblox&logoColor=white" /> <img src="https://img.shields.io/badge/IDLE%20(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThompsonLanKee&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:your.email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> 
+  <a href="mailto:your.email@example.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> </a> 
+  <a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /> </a> 
 </p>
 
 ---
