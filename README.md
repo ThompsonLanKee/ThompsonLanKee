@@ -35,7 +35,13 @@
 </p>
 
 🔧 Backend Development
-<p> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Servlets-EE4C2C?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" /> </p>
+<p> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Servlets-EE4C2C?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+</p>
 
 🗄️ Database Management
 <p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
