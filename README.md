@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-Web / Application Server
+🌐 Web / Application Server
 <p>
   
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
@@ -105,7 +105,7 @@ Web / Application Server
 🧪 Testing Tools
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo= junit&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Mockito-8C8C8C?style=for-the-badge&logo=mockito&logoColor=white" />
 </p>
 
