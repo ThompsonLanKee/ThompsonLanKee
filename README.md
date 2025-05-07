@@ -55,6 +55,8 @@
 
 </p>
 
+
+
 🗄️ Database Management
 <p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
 
@@ -80,6 +82,19 @@
   <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+📊 Reporting Tools
+<p>
+  <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0870BE?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crystal%20Reports-9B4F96?style=for-the-badge&logo=crystal&logoColor=white" />
+
+</p>
+
+🧪 Testing Tools
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo= junit&logoColor=white" />
+<img src="https://img.shields.io/badge/Mockito-8C8C8C?style=for-the-badge&logo=mockito&logoColor=white" />
+</p>
 
 🔄 Version Control & Collaboration
 <p> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> </p>
