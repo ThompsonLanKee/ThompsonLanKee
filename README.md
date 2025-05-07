@@ -111,9 +111,11 @@
 
 🔄 Version Control & Collaboration
 <p> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=gitlab&logoColor=white" />
+
 </p>
 
 
