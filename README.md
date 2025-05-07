@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/MD%20Bootstrap-31B2C4?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+
 </p>
 
 🔧 Backend Development
@@ -50,7 +52,9 @@
   <img src="https://img.shields.io/badge/Servlets-EE4C2C?style=for-the-badge&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+
 
 
 </p>
@@ -58,7 +62,10 @@
 
 
 🗄️ Database Management
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
+<p> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+</p>
 
 💻 Development Tools & IDEs
 <p> 
@@ -82,6 +89,12 @@
   <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+Web / Application Server
+<p>
+  
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+</p>
+
 📊 Reporting Tools
 <p>
   <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0870BE?style=for-the-badge&logo=apache&logoColor=white" />
@@ -97,7 +110,13 @@
 </p>
 
 🔄 Version Control & Collaboration
-<p> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> </p>
+<p> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jaspersoft%20Studio-0277BD?style=for-the-badge&logo=java&logoColor=white" /> 
+</p>
+
+
 
 🚀 Deployment Tools
 
