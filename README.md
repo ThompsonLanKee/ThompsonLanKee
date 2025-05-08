@@ -149,7 +149,7 @@
 <p align="left"> 
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> 
   <a href="mailto:your.email@example.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> </a> 
-  <a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /> </a> 
+  <a href="https://facebook.com/profile.php?id=61556886996066" target="_blank"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /> </a> 
 </p>
 
 ---
