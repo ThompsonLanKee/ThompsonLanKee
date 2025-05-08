@@ -10,7 +10,8 @@
 ---
 
 - 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Systems**
-- 🌱 I’m currently learning: **ABAP Programming for SAP Development| Django Framework for Python| MongoDB for NoSQL Database**
+- 🌱 I’m currently learning: **ABAP Programming for SAP Development| Django Framework for Python | MongoDB for NoSQL Database**
+- 🔮 Future learning: **Laravel Framewok for PHP & Odoo for Business Application**
 - 👯 I’m looking to collaborate on: **Open-source projects**
 - 🤝 I’m looking for help with: **Analysis & Development**
 - 💬 Ask me about: **Web development, Java, Angular, Relational Database and more**
