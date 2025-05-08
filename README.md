@@ -74,8 +74,9 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" /> 
   <img src="https://img.shields.io/badge/IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> 
@@ -135,7 +136,31 @@
 
 🧰 Other Tools
 
-<p> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> </p>
+<p> 
+  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> 
+</p>
+
+
+🧠 Other Skills & Abilities
+| Skill                       | Level        | Proficiency Bar      |
+| --------------------------- | ------------ | -------------------- |
+| 🗣️ English                 | Intermediate | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
+| 🗣️ Burmese                 | Native       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| 🗣️ Japanese                | Elementary   | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜         |
+| 👨‍🏫 Programming Lecturing | Normal       | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
+| 📘 Knowledge Sharing        | Normal       | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
+| 🧭 Leadership               | High         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| 💬 Communication            | Challenging  | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜        |
+| 🔥 Self-Motivation          | Moderate     | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜      |
+| ⚖️ Decisiveness             | High         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| 🌿 Flexibility              | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| 🧩 Responsibility           | High         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| 🤝 Teamwork                 | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| 🧠 Problem-solving          | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| ⏱️ Work Under Pressure      | Low          | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜         |
+| 📆 Time Management          | Normal       | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
+
 
 ### 📊 GitHub Stats
 
