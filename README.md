@@ -89,6 +89,8 @@
 <p>
   <img src="https://img.shields.io/badge/Windows%20Forms-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Swing-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20AWT-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 🌐 Web / Application Server
