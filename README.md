@@ -143,24 +143,30 @@
 
 
 🧠 Other Skills & Abilities
-| Skill                       | Level Status       | Proficiency Bar      |
+| Skill                       | Level Status       | Proficiency Bar     |
 | --------------------------- | ------------ | -------------------- |
-| 🗣️ English                 | Intermediate | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜       |
-| 🗣️ Burmese                 | Native       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-| 🗣️ Japanese                | Elementary   | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜         |
-| 👨‍🏫 Programming Lecturing | Strong       | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜       |
-| 📘 Knowledge Sharing        | High       | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜       |
-| 🧭 Leadership               | High         | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜    |
-| 💬 Communication            | Challenging/Normal  | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜        |
-| 🔥 Self-Motivation          | Moderate     | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜      |
-| ⚖️ Decisiveness             | High         | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜    |
-| 🌿 Flexibility              | Strong       | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜    |
-| 🧩 Responsibility           | High         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜    |
-| 🤝 Teamwork                 | Strong       | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜    |
-| 🧠 Problem-solving          | Normal       | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜    |
-| ⏱️ Work Under Pressure      | Low          | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜         |
-| 📆 Time Management          | Normal       | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜       |
-
+| 🗣️ English                 | Intermediate          | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ |
+| 🗣️ Burmese                 | Native                | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| 🗣️ Japanese                | Elementary            | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 👨‍🏫 Programming Lecturing | Strong                  | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| 📘 Knowledge Sharing        | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+| 🧭 Leadership               | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+| 💬 Communication            | Challenging/Normal   | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
+| 🔥 Self-Motivation          | Moderate             | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ |
+| ⚖️ Decisiveness             | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| 🌿 Flexibility              | Strong               | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
+| 🧩 Responsibility           | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+| 🤝 Teamwork                 | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| 🧠 Problem-solving          | Normal               | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
+| ⏱️ Work Under Pressure      | Low                  | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 📆 Time Management          | Normal               | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
+| 🎯 Attention to Detail      | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| 🧩 Creativity & Innovation  | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| 📊 Presentation Skills      | Challenging          | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
+| 🔐 Ethics & Integrity       | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| 📚 Continuous Learning      | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+| 🔄 Adaptability             | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| 📈 Analytical Thinking      | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 
 ### 📊 GitHub Stats
 
