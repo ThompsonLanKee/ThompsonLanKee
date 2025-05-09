@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/MD%20Bootstrap-31B2C4?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/AJAX-FF6C37?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 
 </p>
