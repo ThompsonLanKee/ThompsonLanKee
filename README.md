@@ -143,23 +143,23 @@
 
 
 🧠 Other Skills & Abilities
-| Skill                       | Level        | Proficiency Bar      |
+| Skill                       | Level Status       | Proficiency Bar      |
 | --------------------------- | ------------ | -------------------- |
-| 🗣️ English                 | Intermediate | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
+| 🗣️ English                 | Upper-Intermediate | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜       |
 | 🗣️ Burmese                 | Native       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-| 🗣️ Japanese                | Elementary   | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜         |
-| 👨‍🏫 Programming Lecturing | Normal       | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
-| 📘 Knowledge Sharing        | Normal       | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
-| 🧭 Leadership               | High         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
-| 💬 Communication            | Challenging  | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜        |
-| 🔥 Self-Motivation          | Moderate     | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜      |
-| ⚖️ Decisiveness             | High         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
-| 🌿 Flexibility              | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
-| 🧩 Responsibility           | High         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
+| 🗣️ Japanese                | Elementary   | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜         |
+| 👨‍🏫 Programming Lecturing | Strong       | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜       |
+| 📘 Knowledge Sharing        | High       | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜       |
+| 🧭 Leadership               | High         | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜    |
+| 💬 Communication            | Challenging  | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜        |
+| 🔥 Self-Motivation          | Moderate     | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜      |
+| ⚖️ Decisiveness             | High         | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜    |
+| 🌿 Flexibility              | Strong       | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜    |
+| 🧩 Responsibility           | High         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜    |
 | 🤝 Teamwork                 | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
 | 🧠 Problem-solving          | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
 | ⏱️ Work Under Pressure      | Low          | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜         |
-| 📆 Time Management          | Normal       | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜       |
+| 📆 Time Management          | Normal       | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜       |
 
 
 ### 📊 GitHub Stats
