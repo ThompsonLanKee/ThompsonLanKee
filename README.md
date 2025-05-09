@@ -145,20 +145,20 @@
 🧠 Other Skills & Abilities
 | Skill                       | Level Status       | Proficiency Bar      |
 | --------------------------- | ------------ | -------------------- |
-| 🗣️ English                 | Upper-Intermediate | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜       |
+| 🗣️ English                 | Intermediate | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜       |
 | 🗣️ Burmese                 | Native       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 | 🗣️ Japanese                | Elementary   | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜         |
 | 👨‍🏫 Programming Lecturing | Strong       | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜       |
 | 📘 Knowledge Sharing        | High       | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜       |
 | 🧭 Leadership               | High         | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜    |
-| 💬 Communication            | Challenging  | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜        |
+| 💬 Communication            | Challenging/Normal  | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜        |
 | 🔥 Self-Motivation          | Moderate     | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜      |
 | ⚖️ Decisiveness             | High         | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜    |
 | 🌿 Flexibility              | Strong       | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜    |
 | 🧩 Responsibility           | High         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜    |
-| 🤝 Teamwork                 | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
-| 🧠 Problem-solving          | Strong       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜    |
-| ⏱️ Work Under Pressure      | Low          | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜         |
+| 🤝 Teamwork                 | Strong       | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜    |
+| 🧠 Problem-solving          | Normal       | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜    |
+| ⏱️ Work Under Pressure      | Low          | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜         |
 | 📆 Time Management          | Normal       | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜       |
 
 
