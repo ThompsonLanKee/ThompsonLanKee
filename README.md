@@ -147,7 +147,7 @@
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /> 
 </p>
 
-### 🎮 Games I Play
+### 🎮 Mobile/PC Games I Play
 <p>
 <img src="https://img.shields.io/badge/Roblox-D91500?style=for-the-badge&logo=roblox&logoColor=white" />
 <img src="https://img.shields.io/badge/🛡️Clash%20of%20Clans-FE3C3C?style=for-the-badge" />
@@ -156,13 +156,25 @@
 <img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic-6A5ACD?style=for-the-badge" /> <br>
 <img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic:%20Hammer%20of%20Fate-6A5ACD?style=for-the-badge" /> <br>
 <img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic:%20Tribe%20of%20the%20East-6A5ACD?style=for-the-badge" /> <br>
-  
 <img src="https://img.shields.io/badge/Dragon%20Age-Origin-9B111E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Plants%20vs%20Zombies%202-78BC61?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Township-FFCC00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UNO-EB1C24?style=for-the-badge" />
-
 </p>
+
+### 🧩 Board Games I Play
+<p>
+  <img src="https://img.shields.io/badge/UNO-EB1C24?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOS-0096D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monopoly-D71A28?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrabble-1A8F3F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Checker-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snakes%20and%20Ladders-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Connect%20Four-0046AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lego-FC0C0C?style=for-the-badge" />
+</p>
+
+
 
 
 🧠 Other Skills & Abilities
