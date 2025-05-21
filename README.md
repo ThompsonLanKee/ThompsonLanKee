@@ -16,7 +16,7 @@
 - 🤝 I’m looking for help with: **Analysis & Development**
 - 💬 Ask me about: **Web development, Java, Angular, Relational Database and more**
 - 📫 How to reach me: **thompsonlankee@gmail.com**
-- ⚡ Fun fact: **I love coffee and building cool web apps! ☕**
+- ⚡ Fun fact: **I love mocha and building cool web apps! ☕**
 
 ---
 
@@ -136,12 +136,32 @@
 
 <p> <img src="https://img.shields.io/badge/Roblox%20Studio-BB0000?style=for-the-badge&logo=roblox&logoColor=white" /> </p>
 
-
 🧰 Other Tools
-
 <p> 
   <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Notepad-008000?style=for-the-badge&logo=windows&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /> 
+</p>
+
+### 🎮 Games I Play
+<p>
+<img src="https://img.shields.io/badge/Roblox-D91500?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/🛡️Clash%20of%20Clans-FE3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile%20Legends%20Bang%20Bang-3E8DE3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dota%202-A6262C?style=for-the-badge&logo=dota&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic-6A5ACD?style=for-the-badge" /> <br>
+<img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic:%20Hammer%20of%20Fate-6A5ACD?style=for-the-badge" /> <br>
+<img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic:%20Tribe%20of%20the%20East-6A5ACD?style=for-the-badge" /> <br>
+  
+<img src="https://img.shields.io/badge/Dragon%20Age-Origin-9B111E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plants%20vs%20Zombies%202-78BC61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Township-FFCC00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UNO-EB1C24?style=for-the-badge" />
+
 </p>
 
 
