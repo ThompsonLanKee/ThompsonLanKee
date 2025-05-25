@@ -153,6 +153,8 @@
 <img src="https://img.shields.io/badge/🛡️Clash%20of%20Clans-FE3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mobile%20Legends%20Bang%20Bang-3E8DE3?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Dota%202-A6262C?style=for-the-badge&logo=dota&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" /> <br>
+  
 <img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic-6A5ACD?style=for-the-badge" /> <br>
 <img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic:%20Hammer%20of%20Fate-6A5ACD?style=for-the-badge" /> <br>
 <img src="https://img.shields.io/badge/Heroes%20V%20of%20Might%20&%20Magic:%20Tribe%20of%20the%20East-6A5ACD?style=for-the-badge" /> <br>
