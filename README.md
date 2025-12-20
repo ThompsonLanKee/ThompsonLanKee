@@ -3,8 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Aung Phyo Paing (Thompson LanKee) </h1>
 <h3 align="center">A passionate burmese software developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
