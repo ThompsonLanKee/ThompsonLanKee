@@ -1,4 +1,4 @@
-<!-- Profile README -->
+<img width="301" height="585" alt="image" src="https://github.com/user-attachments/assets/ebc8c677-41c6-4189-98fd-c2bb4e3e7ad4" /><!-- Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Aung Phyo Paing (Thompson LanKee) </h1>
 <h3 align="center">A passionate burmese software developer</h3>
@@ -9,8 +9,8 @@
 
 ---
 
-- 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Application Systems**
-- 🌱 I’m currently learning: **ABAP Programming for SAP Development | Django Framework for Python | MongoDB for NoSQL Database**
+- 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Application Systems** | Module : BASIS
+- 🌱 I’m currently learning: **Roblox Studio for Game Engine | MongoDB for NoSQL Database**
 - 🔮 Future learning: **Laravel Framewok for PHP & Odoo for Business Software Application**
 - 👯 I’m looking to collaborate on: **Open-source projects**
 - 🤝 I’m looking for help with: **Analysis & Development**
@@ -197,7 +197,7 @@
 | ⏱️ Work Under Pressure      | Low                  | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ |
 | 📆 Time Management          | Normal               | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
 | 🎯 Attention to Detail      | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
-| 🧩 Creativity & Innovation  | Expert               | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| 🧩 Creativity & Innovation  | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | 📊 Presentation Skills      | Challenging          | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
 | 🔐 Ethics & Integrity       | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 📚 Continuous Learning      | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
