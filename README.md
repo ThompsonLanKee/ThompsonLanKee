@@ -1,4 +1,4 @@
-<img width="301" height="585" alt="image" src="https://github.com/user-attachments/assets/ebc8c677-41c6-4189-98fd-c2bb4e3e7ad4" /><!-- Profile README -->
+
 
 <h1 align="center">Hi there 👋, I'm Aung Phyo Paing (Thompson LanKee) </h1>
 <h3 align="center">A passionate burmese software developer</h3>
