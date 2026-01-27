@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on: **Service Provider at SAP & Acumatica Software Application Systems** | Module : BASIS
+- 🔭 I’m currently working on: **Service Provider at SAP , Acumatica & CUSCEN ERP Software Application Systems** | Module : BASIS
 - 🌱 I’m currently learning: **Roblox Studio for Game Engine | MongoDB for NoSQL Database**
 - 🔮 Future learning: **Laravel Framewok for PHP & Odoo for Business Software Application**
 - 👯 I’m looking to collaborate on: **Open-source projects**
