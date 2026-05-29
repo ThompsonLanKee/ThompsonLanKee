@@ -211,9 +211,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" alt="GitHub Streak" />
 
 
-<p>
-  ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=vision-friendly-dark)
-</p>
 ---
 
 
