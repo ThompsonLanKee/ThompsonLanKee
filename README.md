@@ -203,27 +203,20 @@
 | 📈 Analytical Thinking      | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 🎮 Gaming                   | Expert               | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThompsonLanKee&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=ThompsonLanKee&show_icons=true&theme=tokyonight&count_private=true" />
 
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" />
 </p>
-
-### Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
----
-
 
 
 ### 📫 Connect with me:
