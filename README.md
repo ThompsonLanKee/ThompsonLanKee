@@ -206,12 +206,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<a src="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee">
-</a>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThompsonLanKee&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
