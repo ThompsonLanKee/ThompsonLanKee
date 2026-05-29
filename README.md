@@ -207,7 +207,9 @@
 
 <p align="center">
 
-
+<a src="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee">
+</a>
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" />
 </p>
