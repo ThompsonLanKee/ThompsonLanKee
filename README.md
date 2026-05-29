@@ -203,6 +203,13 @@
 | 📈 Analytical Thinking      | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 🎮 Gaming                   | Expert               | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -214,6 +221,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThompsonLanKee&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThompsonLanKee&theme=tokyonight" />
+</p>
 
 ### 📫 Connect with me:
 
