@@ -212,6 +212,12 @@
 
 </p>
 
+### Language Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" alt="Top Langs" />
