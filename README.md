@@ -209,9 +209,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ThompsonLanKee&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" alt="GitHub Streak" />
+
+  ![Metrics](https://metrics.lecoq.io/your-github-ThompsonLanKee?template=classic&base=header,activity,community,repositories&plugin_languages=yes&plugin_languages_limit=8)
 </p>
 
 ---
+
+
 
 ### 📫 Connect with me:
 
