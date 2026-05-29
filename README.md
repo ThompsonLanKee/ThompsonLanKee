@@ -208,10 +208,6 @@
 ## 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThompsonLanKee&theme=tokyonight" />
 </p>
 
@@ -234,11 +230,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThompsonLanKee&theme=tokyonight&row=2&column=4" />
-</p>
 
 
 ### 📫 Connect with me:
