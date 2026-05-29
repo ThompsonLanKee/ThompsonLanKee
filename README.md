@@ -206,21 +206,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ThompsonLanKee&show_icons=true&theme=tokyonight&count_private=true" />
+
 
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonLanKee&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonLanKee&theme=tokyonight" />
-</p>
-
-<a src="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME">
-</a>
 
 
 ### 📫 Connect with me:
