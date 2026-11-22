@@ -218,6 +218,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThompsonLanKee&theme=tokyonight" alt="Repository languages" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThompsonLanKee&theme=tokyonight" alt="Most-used languages by commits" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThompsonLanKee&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThompsonLanKee&theme=tokyonight&utcOffset=6.5" />
 </p>
