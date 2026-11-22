@@ -217,12 +217,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThompsonLanKee&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThompsonLanKee&theme=tokyonight" alt="Repository languages" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThompsonLanKee&theme=tokyonight" alt="Most-used languages by commits" />
-</p>
-
 
 <div align="center">
   <img
