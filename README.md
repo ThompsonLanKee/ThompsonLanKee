@@ -183,7 +183,7 @@
 | 🗣️ English                 | Intermediate          | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ |
 | 🗣️ Burmese                 | Native                | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 | 🗣️ Japanese                | Elementary            | 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| 👨‍🏫 Programming Lecturing | Strong                  | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| 👨‍🏫 Programming Lecturing   | Strong                | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 📘 Knowledge Sharing        | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | 🧭 Leadership               | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | 💬 Communication            | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
@@ -194,7 +194,7 @@
 | 🤝 Teamwork                 | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 🧠 Problem-solving          | Normal               | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
 | ⏱️ Work Under Pressure      | Low                  | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ |
-| 📆 Time Management          | Normal               | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
+| 📆 Time Management          | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 🎯 Attention to Detail      | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 🧩 Creativity & Innovation  | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | 📊 Presentation Skills      | Challenging          | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
