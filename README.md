@@ -187,7 +187,7 @@
 | 📘 Knowledge Sharing        | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | 🧭 Leadership               | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | 💬 Communication            | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
-| 🔥 Self-Motivation          | Moderate             | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ |
+| 🔥 Self-Motivation          | Normal               | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ |
 | ⚖️ Decisiveness             | Strong               | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
 | 🌿 Flexibility              | Strong               | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
 | 🧩 Responsibility           | High                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
