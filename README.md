@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with: **Analysis & Development**
 - 💬 Ask me about: **Web development, Java, Angular, Relational Database and more**
 - 📫 How to reach me: **thompsonlankee@gmail.com**
-- ⚡ Fun fact: **I love mocha and building cool web apps! ☕🍫**
+- ⚡ Fun fact: **I love mocha and building cool web and desktop apps! ☕🍫**
 
 ---
 
