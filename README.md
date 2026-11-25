@@ -260,5 +260,5 @@
 
 <!-- Optional visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ThompsonLanKee&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
